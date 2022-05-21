@@ -1,0 +1,32 @@
+export default [
+  {
+    text: 'Home',
+    spy: true,
+    duration: 500,
+    smooth: true,
+    exact: 'true',
+    activeclassname: 'active',
+    to: '/',
+    offset: -80,
+  },
+  {
+    text: 'About',
+    spy: true,
+    duration: 500,
+    smooth: true,
+    exact: 'true',
+    activeclassname: 'active',
+    to: '/about',
+    offset: -80,
+  },
+  {
+    text: 'Contact',
+    spy: true,
+    duration: 500,
+    smooth: true,
+    exact: 'true',
+    activeclassname: 'active',
+    to: '/contact',
+    offset: -80,
+  },
+]
